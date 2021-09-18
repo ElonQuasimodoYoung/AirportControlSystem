@@ -1,0 +1,4 @@
+TakeoffQueue:0
+LandingQueue:1
+VH-BFK
+LoadingAircraft:0
